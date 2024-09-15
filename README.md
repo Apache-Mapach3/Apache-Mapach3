@@ -1,17 +1,27 @@
-## Hi there 👋
-![Banner Apache](https://github.com/user-attachments/assets/14ae625e-f05e-4b27-bb7e-c3a42b979415)
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Apache El Mapache</a> 👋</h1>
+</div>
+<img src =https://github.com/Apache-Mapach3/Apache-Mapach3/issues/1#issue-2527158591>
 
-<!--
-**Apache-Mapach3/Apache-Mapach3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Programming languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐Java⭐ 
+- ⭐Java Script⭐ 
+
+About me
+
+- ⭐New On Github⭐ 
+- ⭐Software engineer in progress⭐ 
+- ⭐Passionate about technology⭐ 
+- ⭐Focused on quality and customer focus⭐ 
+
+
+⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Apache-Mapach3">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Apache-Mapach3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ 
+</a>
+</p>
