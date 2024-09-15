@@ -1,15 +1,15 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Apache El Mapache</a> 👋</h1>
+<h1 align="center">Hi, i am <a href="https://aristi.dev">Apache El Mapache</a> 👋</h1>
 </div>
 <img src =https://github.com/Apache-Mapach3/Apache-Mapach3/blob/main/Banner%20Apache.png?raw=true>
 
 
-Programming languages
+⚙️ Programming languages
 
 - ⭐Java⭐ 
 - ⭐Java Script⭐ 
 
-About me
+⚙️ About me
 
 - ⭐New On Github⭐ 
 - ⭐Software engineer in progress⭐ 
